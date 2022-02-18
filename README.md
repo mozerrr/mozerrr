@@ -1,4 +1,4 @@
-<img src="https://github.com/mozerrr/mozerrr/blob/master/header.png?raw=true">
+<img src="https://github.com/mozerrr/mozerrr/blob/master/index.png?raw=true">
 <!--
 **mozerrr/mozerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
