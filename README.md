@@ -1,5 +1,4 @@
-/header.png
-
+<img src="https://raw.githubusercontent.com/mozerrr/mozerrr/master/GitHub%20header.png">
 <!--
 **mozerrr/mozerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
